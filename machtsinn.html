@@ -14,30 +14,9 @@
 
     <script>
         function genText() {
-            const num = Math.random();
-            let text = "";
+            let liste = ["macht", "erzeugt", "generiert", "erschafft", "erstellt", "tut", "entsperrt", "kompiliert", "zeigt", "druckt"];
 
-            if(num > 0.9) {
-                text = "macht";
-            } else if(num > 0.8) {
-                text = "erzeugt";
-            } else if(num > 0.7) {
-                text = "generiert";
-            } else if(num > 0.6) {
-                text = "erschafft";
-            } else if(num > 0.5) {
-                text = "erstellt";
-            } else if(num > 0.4) {
-                text = "tut";
-            } else if(num > 0.3) {
-                text = "entsperrt";
-            } else if(num > 0.2) {
-                text = "kompiliert";
-            } else if(num > 0.1) {
-                text = "zeigt";
-            } else {
-                text = "druckt";
-            }
+            let text = liste[Math.floor(Math.random()*liste.length)];
 
             const textInsg = "Das " + text + " doch Sinn, oder?";
             document.getElementById("text").innerHTML = textInsg;
