@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Das macht doch Sinn, oder?</title>
     <style>
-        @import url(/stylesheet.css);
+        @import url(./stylesheet.css);
     </style>
 </head>
 <body>
@@ -14,11 +14,12 @@
 
     <script>
         function genText() {
-            let liste = ["macht", "erzeugt", "generiert", "erschafft", "erstellt", "tut", "entsperrt", "kompiliert", "zeigt", "druckt"];
+            let verben = ["macht", "erzeugt", "generiert", "erschafft", "erstellt", "tut", "entsperrt", "kompiliert", "zeigt", "druckt"];
 
-            let text = liste[Math.floor(Math.random()*liste.length)];
+            let text = verben[Math.floor(Math.random()*verben.length)];
 
             const textInsg = "Das " + text + " doch Sinn, oder?";
+
             document.getElementById("text").innerHTML = textInsg;
         }
         window.onload = genText();
