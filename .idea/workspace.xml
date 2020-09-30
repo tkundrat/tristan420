@@ -28,6 +28,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78acb1fd-49e4-4ca6-a58f-8c5fe1705106" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machtsinn.html" beforeDir="false" afterPath="$PROJECT_DIR$/machtsinn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,8 @@
       <updated>1601468275378</updated>
       <workItem from="1601468277478" duration="1510000" />
       <workItem from="1601470059755" duration="332000" />
-      <workItem from="1601471768369" duration="2544000" />
+      <workItem from="1601471768369" duration="3385000" />
+      <workItem from="1601496760928" duration="1847000" />
     </task>
     <servers />
   </component>
@@ -113,12 +116,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="938" y="163" key="SettingsEditor" timestamp="1601470128216">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
     <state x="938" y="163" key="SettingsEditor/0.23.1920.1001@0.23.1920.1001" timestamp="1601470128215" />
+    <state x="667" y="151" width="586" height="735" key="find.popup" timestamp="1601498685113">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="667" y="151" width="586" height="735" key="find.popup/0.23.1920.992@0.23.1920.992" timestamp="1601498685113" />
     <state x="1130" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1601470388594">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
