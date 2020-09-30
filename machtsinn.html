@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Das macht doch Sinn, oder?</title>
+    <style>
+        @import url(/stylesheet.css);
+    </style>
+</head>
+<body>
+    <div id="content">
+        <p id="text">TEXT</p>
+    </div>
+
+    <script>
+        function genText() {
+            const num = Math.random();
+            let text = "";
+
+            if(num > 0.9) {
+                text = "macht";
+            } else if(num > 0.8) {
+                text = "erzeugt";
+            } else if(num > 0.7) {
+                text = "generiert";
+            } else if(num > 0.6) {
+                text = "erschafft";
+            } else if(num > 0.5) {
+                text = "erstellt";
+            } else if(num > 0.4) {
+                text = "tut";
+            } else if(num > 0.3) {
+                text = "entsperrt";
+            } else if(num > 0.2) {
+                text = "kompiliert";
+            } else if(num > 0.1) {
+                text = "zeigt";
+            } else {
+                text = "druckt";
+            }
+
+            const textInsg = "Das " + text + " doch Sinn, oder?";
+            document.getElementById("text").innerHTML = textInsg;
+        }
+        window.onload = genText();
+    </script>
+</body>
+</html>
