@@ -5,11 +5,13 @@
     <title>Das macht doch Sinn, oder?</title>
     <style>
         @import url(./stylesheet.css);
+        @import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
     </style>
 </head>
 <body>
     <div id="content">
         <p id="text">TEXT</p>
+        <p id="line">- Niclas Lempart, 2020</p>
     </div>
 
     <script>
@@ -18,7 +20,7 @@
 
             let text = verben[Math.floor(Math.random()*verben.length)];
 
-            const textInsg = "Das " + text + " doch Sinn, oder?";
+            const textInsg = "&bdquo;Das " + text + " doch Sinn, oder?&ldquo;";
 
             document.getElementById("text").innerHTML = textInsg;
         }

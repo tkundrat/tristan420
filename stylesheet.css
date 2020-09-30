@@ -13,3 +13,13 @@ html, body {
     text-align: center;
     vertical-align: middle;
 }
+
+#text {
+    font-size: 30pt;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#line {
+    font-size: 12pt;
+    font-family: monospace;
+}
