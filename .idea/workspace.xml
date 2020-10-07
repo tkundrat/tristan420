@@ -27,8 +27,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78acb1fd-49e4-4ca6-a58f-8c5fe1705106" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/console-line.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/console-line.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machtsinn.html" beforeDir="false" afterPath="$PROJECT_DIR$/machtsinn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wolf.html" beforeDir="false" afterPath="$PROJECT_DIR$/wolf.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +60,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iEMPSNn5GDXvuNNeDu9aw9CDIN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -69,6 +78,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,7 +95,9 @@
       <workItem from="1601468277478" duration="1510000" />
       <workItem from="1601470059755" duration="332000" />
       <workItem from="1601471768369" duration="3385000" />
-      <workItem from="1601496760928" duration="2285000" />
+      <workItem from="1601496760928" duration="35538000" />
+      <workItem from="1601536243032" duration="1548000" />
+      <workItem from="1602095673792" duration="459000" />
     </task>
     <servers />
   </component>
@@ -117,7 +133,14 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="698" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601536468130">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="698" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.992@0.23.1920.992" timestamp="1601536468130" />
     <state x="938" y="163" key="SettingsEditor" timestamp="1601470128216">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
