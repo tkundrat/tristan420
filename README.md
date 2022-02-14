@@ -1,3 +1,3 @@
 # tristan420
 
-krasse webseite auf tristan420.de löst
+krasse webseite auf tristan420.de
